@@ -11,7 +11,7 @@ function App() {
         </p>
 
 
-          Prueba de Softawre good 2025
+          Prueba de Softawre good 2025 git hub
           <a href="https://www.esan.edu.pe/">learn react</a>
           <p>Prueba de SOftware</p>
       </header>
