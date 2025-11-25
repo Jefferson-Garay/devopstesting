@@ -11,7 +11,7 @@ function App() {
         </p>
 
 
-          Semana 15
+          Prueba de Softawre good 2025
           <a href="https://www.esan.edu.pe/">learn react</a>
           <p>Prueba de SOftware</p>
       </header>
